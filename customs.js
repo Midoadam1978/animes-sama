@@ -6,6 +6,6 @@ button.className = "btn";
 
 button.addEventListener("click", function() {
   
-  window.open("https://animesama.biz", "_blank");
+  window.open("https://fr.animesama.biz/", "_blank");
 });
 document.getElementById("btncnt").appendChild(button);
